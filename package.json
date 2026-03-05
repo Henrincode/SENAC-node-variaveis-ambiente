@@ -22,5 +22,8 @@
   "homepage": "https://github.com/Henrincode/SENAC-node-variaveis-ambiente#readme",
   "devDependencies": {
     "nodemon": "^3.1.14"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
   }
 }
