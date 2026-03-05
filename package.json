@@ -4,7 +4,9 @@
   "description": "SENAC - Aqui vamos aprender mais sobre variáveis de ambiente",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node api/server.js",
+    "dev": "nodemon api/server.js"
   },
   "repository": {
     "type": "git",
@@ -17,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Henrincode/SENAC-node-variaveis-ambiente/issues"
   },
-  "homepage": "https://github.com/Henrincode/SENAC-node-variaveis-ambiente#readme"
+  "homepage": "https://github.com/Henrincode/SENAC-node-variaveis-ambiente#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
 }
