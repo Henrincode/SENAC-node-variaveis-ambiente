@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node api/server.js",
-    "dev": "node --env-file=.env api/server.js"
+    "dev": "nodemon api/server"
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,7 @@
     "nodemon": "^3.1.14"
   },
   "dependencies": {
+    "dotenv": "^17.3.1",
     "express": "^5.2.1"
   }
 }
