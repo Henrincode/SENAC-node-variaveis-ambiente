@@ -1,0 +1,11 @@
+
+nome do host:
+AME0635292W11-1
+total de memória em gb:
+23.787
+sistema operacional – tipo do sistema:
+Windows_NT
+nome do usuário ativo:
+henrique.armarques
+quantidade de CPU – modelo da CPU:
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
